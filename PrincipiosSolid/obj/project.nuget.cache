@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2+oFUFe8AGPm8ZuuhfMneZOk+iIXJ2R0qQjTwAeSWw9opT43IyMkR2yD8bm8hLkspky86JkOBrLU3nAju+g7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UNSTA\\source\\repos\\AplicacionDeConsola\\PrincipiosSolid\\PrincipiosSolid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UNSTA\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\UNSTA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\UNSTA\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

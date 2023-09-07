@@ -1,0 +1,15 @@
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\bin\Debug\net6.0\AplicacionDeConsola.exe
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\bin\Debug\net6.0\AplicacionDeConsola.deps.json
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\bin\Debug\net6.0\AplicacionDeConsola.runtimeconfig.json
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\bin\Debug\net6.0\AplicacionDeConsola.dll
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\bin\Debug\net6.0\AplicacionDeConsola.pdb
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net6.0\AplicacionDeConsola.csproj.AssemblyReference.cache
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net6.0\AplicacionDeConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net6.0\AplicacionDeConsola.AssemblyInfoInputs.cache
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net6.0\AplicacionDeConsola.AssemblyInfo.cs
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net6.0\AplicacionDeConsola.csproj.CoreCompileInputs.cache
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net6.0\AplicacionDeConsola.dll
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net6.0\refint\AplicacionDeConsola.dll
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net6.0\AplicacionDeConsola.pdb
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net6.0\AplicacionDeConsola.genruntimeconfig.cache
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net6.0\ref\AplicacionDeConsola.dll

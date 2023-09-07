@@ -1,0 +1,8 @@
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola(NetFramework)\bin\Debug\AplicacionDeConsola(NetFramework).exe.config
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola(NetFramework)\bin\Debug\AplicacionDeConsola(NetFramework).exe
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola(NetFramework)\bin\Debug\AplicacionDeConsola(NetFramework).pdb
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola(NetFramework)\obj\Debug\AplicacionDeConsola.NetFramework.csproj.AssemblyReference.cache
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola(NetFramework)\obj\Debug\AplicacionDeConsola.NetFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola(NetFramework)\obj\Debug\AplicacionDeConsola.NetFramework.csproj.CoreCompileInputs.cache
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola(NetFramework)\obj\Debug\AplicacionDeConsola(NetFramework).exe
+C:\Users\UNSTA\source\repos\AplicacionDeConsola\AplicacionDeConsola(NetFramework)\obj\Debug\AplicacionDeConsola(NetFramework).pdb
